@@ -1,0 +1,138 @@
+header {
+    width: 1440px;
+    height: 70px;
+
+    margin: auto;
+
+    .sotsety {
+        margin-top: -25px;
+    }
+}
+
+.as {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    a{
+        
+        color: black;
+        text-decoration: none;
+      
+    }
+    a:hover {
+        color: #cecece;
+    }
+    .marketplaces {
+        margin-left: -30px;
+        font-size: 25px;
+        margin-top: 20px;
+        color: #cecece;
+ 
+    }
+ .info {
+    margin-left: 45px;
+    font-size: 25px;
+    margin-top: 20px;
+ }
+ .review {
+    margin-left: 45px;
+    font-size: 25px;
+    margin-top: 20px;
+ } 
+ .place {
+    margin-left: 45px;
+    font-size: 25px;
+    margin-top: 20px;
+ }
+  
+}
+.container {
+    width: 1440px;
+    height: 800px;
+    margin: auto;
+    border: solid 2px black;
+
+}
+.logo-h1 {
+    margin-left: 530px;
+    font-size: 55px;
+
+}
+.otdel a {
+    text-decoration: none;
+    color: black;
+margin-left: 320px;
+font-size: 20px;
+}
+.otdel a:hover {
+    color: #cecece;
+}
+
+footer {
+    width: 1440px;
+    height: 235px;
+    background: #e9e9e9;
+    margin: auto;
+}
+
+.emma {
+    padding-top: 30px;
+    padding-left: 40px;
+}
+.fotoot {
+padding-left: 650px;
+padding-top: 35px;
+font-size: 20px;
+}
+.otkamalova {
+    padding-left: 647px;
+    padding-top: 65px;
+    font-size: 15px
+}
+
+.imga {
+    padding-left: 1410px;
+    margin-top: -230px;
+}
+
+.str1 {
+ color: black;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+   padding-top: 20px;
+
+}
+
+.str2 {
+    color: #cecece;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+.author {
+    margin-left: 660px;
+    padding-top: 50px;
+}
+
+.author2 {
+    margin-left: 540px;
+    padding-top: 30px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+.jen {
+    margin-top: -520px;
+    margin-left: 25px;
+}
+.muj {
+    margin-left: 965px;
+     margin-top: -3100px; 
+}
