@@ -1,8 +1,8 @@
 function alert(msg){
     alert(msg)
-    input="" (false)
+    const input = document.getElementById('#input1')
+    input.value = ''
 }
 
 document.getElementById('izmenabutton').addEventListener('click', function() {
-    document.getElementById('input1').innerHTML = ' ';
 });
